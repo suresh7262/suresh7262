@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##  💫 Hi 👋, I'm Mahesh 
+##  💫 Hi 👋, I'm Suresh 
 
 
 
@@ -10,8 +10,8 @@
   
 - 🤔 **I’m looking for help with:** Payment Integration Project 
 - 💬 **Ask me about:** Java, Spring boot, MySQL 
-- 📫 **How to reach me:** **maheshpodili6303@gmail.com**
-- 😄 **Pronouns:** Mahesh 
+- 📫 **How to reach me:** **sureshpodili77@gmail.com**
+- 😄 **Pronouns:** Suresh 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 -->
